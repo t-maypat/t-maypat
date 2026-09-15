@@ -17,9 +17,6 @@
 SWE Intern @ Airbus, Spinny. Backend-heavy full stack. </br>
 Open to collaborating, contributing, or helping out where it makes sense.  
 
-Currently busy:
-  - working on a high scale ticket system and CRM.
-  - tradcoding after burning claude on ultracode.
 
 
 ---
