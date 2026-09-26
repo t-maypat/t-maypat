@@ -14,7 +14,7 @@
 
 
 
-SWE Intern @ Airbus, Spinny. Backend-heavy full stack. </br>
+SWE @ Spinny, prev. @ Airbus. </br>
 Open to collaborating, contributing, or helping out where it makes sense.  
 
 
