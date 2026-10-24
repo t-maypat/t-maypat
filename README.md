@@ -29,7 +29,6 @@ Open to collaborating, contributing, or helping out where it makes sense.
 
 <h3>Tech I Work With</h3>
 
-<h4>Languages</h4>
 <p>
   <!-- Languages -->
 <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -61,6 +60,8 @@ Open to collaborating, contributing, or helping out where it makes sense.
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 <br>
+
+https://www.tanmaypatel.dev
 <!--
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-patel-bb1523100/) · tptanmaypatel9@gmail.com  
 -->
